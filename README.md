@@ -3,7 +3,7 @@ My name is Caleb Landis, and I am a full stack developer. I just recently gradua
 
 I currently live in Pleasant Grove, Utah, and I am looking for new career opportunities! Please feel free to reach out for an interview or just to connect.
 
-If you'd like to see my full resume, you can find the pdf in this repository.
+If you'd like to see my full resume, you can find the pdf in [this repository](./CalebLandisResume.pdf).
 
 I have a very extensive list of projects from my time at IUPUI. These projects tend to fit into three categories: Web Development, Game Development, and Software Engineering. Below is a grid of all my repositories organized by these three categories, with each project ordered by relevancy in descending order. My favorite projects are also pinned on my GitHub profile page.
 
