@@ -13,7 +13,7 @@ I have a very extensive list of projects from my time at IUPUI. These projects t
 | [Capstone](https://github.com/caleb765landis/Capstone) | [Wicked West](https://github.com/caleb765landis/Wicked-West) | [Software Design Pattern Calculator](https://github.com/caleb765landis/Software-Design-Pattern-Calculator) |
 | [Task-!t](https://github.com/caleb765landis/Task-It) | [Bombs Away](https://github.com/caleb765landis/Bombs-Away) | |
 | [NEXT.js/Firebase Tutorial](https://github.com/caleb765landis/next-firebase-tutorial) | [The Worm](https://github.com/caleb765landis/The-Worm) | |
-| [NEXT.js Blog](https://github.com/caleb765landis/nextjs-blog) | | |
+| [NEXT.js Blog](https://github.com/caleb765landis/nextjs-blog) | [PyEngine](https://github.com/caleb765landis/PyEngine) | |
 
 <!--
 **caleb765landis/caleb765landis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
