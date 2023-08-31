@@ -5,7 +5,7 @@ I currently live in Pleasant Grove, Utah, and I am looking for new career opport
 
 If you'd like to see my full resume, you can find the pdf in [this repository](./CalebLandisResume.pdf).
 
-I have a very extensive list of projects from my time at IUPUI. These projects tend to fit into three categories: Web Development, Game Development, and Software Engineering. Below is a grid of all my repositories organized by these three categories, with each project ordered by relevancy in descending order. My favorite projects are also pinned on my GitHub profile page.
+I have a very extensive list of projects from my time at IUPUI. These projects tend to fit into three categories: Web Development, Game Development, and Software Engineering. Below is a grid of all my repositories organized by these three categories, with each category ordered by relevancy in descending order. My favorite projects are also pinned on my GitHub profile page.
 
 #### Projects
 | Web Development | Game Development | Software Engineering |
