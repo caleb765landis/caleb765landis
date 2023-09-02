@@ -15,6 +15,7 @@ I have a very extensive list of projects from my time at IUPUI. These projects t
 | [NEXT.js/Firebase Tutorial](https://github.com/caleb765landis/next-firebase-tutorial) | [The Worm](https://github.com/caleb765landis/The-Worm) | |
 | [NEXT.js Blog](https://github.com/caleb765landis/nextjs-blog) | [PyEngine](https://github.com/caleb765landis/PyEngine) | |
 | [Drawing Web App](https://github.com/caleb765landis/Drawing-Web-App) | [Finite State Game](https://github.com/caleb765landis/Finite-State-Game) | |
+| [Client-Side Validation Demo](https://github.com/caleb765landis/Client-Side-Validation-Demo) | | |
 
 <!--
 **caleb765landis/caleb765landis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
