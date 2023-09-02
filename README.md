@@ -12,7 +12,7 @@ I have a very extensive list of projects from my time at IUPUI. These projects t
 | ------ | ------ | ------ |
 | [Capstone](https://github.com/caleb765landis/Capstone) | [Wicked West](https://github.com/caleb765landis/Wicked-West) | [Software Design Pattern Calculator](https://github.com/caleb765landis/Software-Design-Pattern-Calculator) |
 | [Task-!t](https://github.com/caleb765landis/Task-It) | [Bombs Away](https://github.com/caleb765landis/Bombs-Away) | [Large-Scale Oracle Database](https://github.com/caleb765landis/Large-Scale-Database) |
-| [NEXT.js/Firebase Tutorial](https://github.com/caleb765landis/next-firebase-tutorial) | [The Worm](https://github.com/caleb765landis/The-Worm) | |
+| [NEXT.js/Firebase Tutorial](https://github.com/caleb765landis/next-firebase-tutorial) | [The Worm](https://github.com/caleb765landis/The-Worm) | [Graph Routing Algorithms](https://github.com/caleb765landis/Graph-Routing-Algorithms) |
 | [NEXT.js Blog](https://github.com/caleb765landis/nextjs-blog) | [PyEngine](https://github.com/caleb765landis/PyEngine) | |
 | [Drawing Web App](https://github.com/caleb765landis/Drawing-Web-App) | [Finite State Game](https://github.com/caleb765landis/Finite-State-Game) | |
 | [Client-Side Validation Demo](https://github.com/caleb765landis/Client-Side-Validation-Demo) | | |
