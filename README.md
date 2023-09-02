@@ -7,7 +7,7 @@ If you'd like to see my full resume, you can find the pdf in [this repository](.
 
 I have a very extensive list of projects from my time at IUPUI. These projects tend to fit into three categories: Web Development, Game Development, and Software Engineering. Below is a grid of all my repositories organized by these three categories, with each category ordered by relevancy in descending order. My favorite projects are also pinned on my GitHub profile page.
 
-## Projects
+### Projects
 | Web Development | Game Development | Software Engineering |
 | ------ | ------ | ------ |
 | [Capstone](https://github.com/caleb765landis/Capstone) | [Wicked West](https://github.com/caleb765landis/Wicked-West) | [Software Design Pattern Calculator](https://github.com/caleb765landis/Software-Design-Pattern-Calculator) |
