@@ -14,7 +14,7 @@ I have a very extensive list of projects from my time at IUPUI. These projects t
 | [Task-!t](https://github.com/caleb765landis/Task-It) | [Bombs Away](https://github.com/caleb765landis/Bombs-Away) | [Large-Scale Oracle Database](https://github.com/caleb765landis/Large-Scale-Database) |
 | [NEXT.js/Firebase Tutorial](https://github.com/caleb765landis/next-firebase-tutorial) | [The Worm](https://github.com/caleb765landis/The-Worm) | [Graph Routing Algorithms](https://github.com/caleb765landis/Graph-Routing-Algorithms) |
 | [NEXT.js Blog](https://github.com/caleb765landis/nextjs-blog) | [PyEngine](https://github.com/caleb765landis/PyEngine) | [Matrix Multiplier](https://github.com/caleb765landis/Matrix-Multiplier) |
-| [Drawing Web App](https://github.com/caleb765landis/Drawing-Web-App) | [Finite State Game](https://github.com/caleb765landis/Finite-State-Game) | |
+| [Drawing Web App](https://github.com/caleb765landis/Drawing-Web-App) | [Finite State Game](https://github.com/caleb765landis/Finite-State-Game) | [Spell Checker](https://github.com/caleb765landis/Spell-Checker) |
 | [Client-Side Validation Demo](https://github.com/caleb765landis/Client-Side-Validation-Demo) | | |
 
 <!--
