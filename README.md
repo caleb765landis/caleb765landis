@@ -18,6 +18,7 @@ I have a very extensive list of projects from my time at IUPUI. These projects t
 | [Client-Side Validation Demo](https://github.com/caleb765landis/Client-Side-Validation-Demo) | | [B-Tree](https://github.com/caleb765landis/B-Tree) |
 | | | [Heap](https://github.com/caleb765landis/Heap) |
 | | | [N-Queens](https://github.com/caleb765landis/N-Queens) |
+| | | [Euchre Without Friends](https://github.com/caleb765landis/Euchre-Without-Friends) |
 
 <!--
 **caleb765landis/caleb765landis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
