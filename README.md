@@ -17,6 +17,7 @@ I have a very extensive list of projects from my time at IUPUI. These projects t
 | [Drawing Web App](https://github.com/caleb765landis/Drawing-Web-App) | [Finite State Game](https://github.com/caleb765landis/Finite-State-Game) | [Spell Checker](https://github.com/caleb765landis/Spell-Checker) |
 | [Client-Side Validation Demo](https://github.com/caleb765landis/Client-Side-Validation-Demo) | | [B-Tree](https://github.com/caleb765landis/B-Tree) |
 | | | [Heap](https://github.com/caleb765landis/Heap) |
+| | | [N-Queens](https://github.com/caleb765landis/N-Queens) |
 
 <!--
 **caleb765landis/caleb765landis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
