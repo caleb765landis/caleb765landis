@@ -1,9 +1,9 @@
 ## Howdy! 👋
 My name is Caleb Landis, and I am a full stack developer. I just recently graduated from IUPUI with a B.A. in Applied Computer Science with a minor in Game Design & Development. I've spent time as a lab instructor for the first two introductory computer science classes at IUPUI, and I've also graded for a fundamental web development course as well. My philosophy is you finally know something when you're able to teach it. That means I believe my experience as a teaching assistant was not only beneficial for my students, but for me as well.
 
-I currently live in Pleasant Grove, Utah, and I am looking for new career opportunities! Please feel free to reach out for an interview or just to connect.
+I currently live in Pleasant Grove, Utah, and I am looking for new career opportunities! Please feel free to reach out for an interview or just to connect. To see my full resume, you can find the pdf in [this repository](./CalebLandisResume.pdf).
 
-If you'd like to see my full resume, you can find the pdf in [this repository](./CalebLandisResume.pdf).
+If you'd like to learn more about me, visit my [personal portfolio website](https://portfolio-caleb765landis.vercel.app/).
 
 I have a very extensive list of projects from my time at IUPUI and beyond. These projects tend to fit into three categories: Software Engineering, Web Development, and Game Development. Below is a grid of all my repositories organized by these three categories, with each category ordered by relevancy in descending order. My favorite projects are also pinned on my GitHub profile page.
 
