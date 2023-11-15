@@ -10,7 +10,7 @@ I have a very extensive list of projects from my time at IUPUI and beyond. These
 ### Projects
 | Software Engineering | Web Development | Game Development |
 |---|---|---|
-| [Capstone](https://github.com/caleb765landis/Capstone) | [Portfolio Website]([https://portfolio-caleb765landis.vercel.app/](https://github.com/caleb765landis/Portfolio)) | [Wicked West](https://github.com/caleb765landis/Wicked-West) |
+| [Capstone](https://github.com/caleb765landis/Capstone) | [Portfolio Website](https://github.com/caleb765landis/Portfolio) | [Wicked West](https://github.com/caleb765landis/Wicked-West) |
 | [Software Design Pattern Calculator](https://github.com/caleb765landis/Software-Design-Pattern-Calculator) | [Collectathon - Dev Logs](https://github.com/caleb765landis/Collectathon-Dev-Logs) | [Bombs Away](https://github.com/caleb765landis/Bombs-Away) |
 | [Large-Scale Oracle Database](https://github.com/caleb765landis/Large-Scale-Database) | [Task-!t](https://github.com/caleb765landis/Task-It) | [The Worm](https://github.com/caleb765landis/The-Worm) |
 | [Graph Routing Algorithms](https://github.com/caleb765landis/Graph-Routing-Algorithms) | [NEXT.js/Firebase Tutorial](https://github.com/caleb765landis/next-firebase-tutorial) | [PyEngine](https://github.com/caleb765landis/PyEngine) |
